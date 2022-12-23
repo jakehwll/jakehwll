@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jake-hwll/">Linkedin</a>
 </p>
 
-I'm a frontend developer from Australia. Working for all sorts of people building cool things. Publically here, I create open-source repo's with side-projects and other cool things.
+I'm a Fullstack Engineer from Australia. Working for all sorts of people building cool things. Publically here, I create open-source repo's with side-projects and other cool things.
 
 I also have a few [gists](https://gist.github.com/jakehwll/) lying around that may help you.
 
